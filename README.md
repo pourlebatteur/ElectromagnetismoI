@@ -1,7 +1,4 @@
 # ElectromagnetismoI
-Claro, aquí tienes una descripción que podrías incluir en el archivo README de tu repositorio en GitHub:
-
----
 
 # Tarea 3: Ecuación de Laplace - Método de Relajación
 
