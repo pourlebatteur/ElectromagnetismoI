@@ -13,8 +13,8 @@ El programa acepta como entrada el número de puntos de la red \( N \) y \( M \)
 - **`laplace_relaxation.py`**: Contiene el código fuente del programa implementado en Python.
 - **`test_laplace_relaxation.py`**: Contiene el código de prueba para verificar el correcto funcionamiento del programa.
 - **`README.md`**: Proporciona información sobre el repositorio y cómo ejecutar el programa y las pruebas.
-- **`solucion_computacional.png`**: Imagen que muestra la solución computacional de la ecuación de Laplace en 2D y 3D.
-- **`solucion_analitica.png`**: Imagen que muestra la solución analítica de la ecuación de Laplace en 2D y 3D.
+- **`solucion_computacional.jpeg`**: Imagen que muestra la solución computacional de la ecuación de Laplace en 2D y 3D.
+- **`solucion_analitica.jpeg`**: Imagen que muestra la solución analítica de la ecuación de Laplace en 2D y 3D.
 - **`Informe.pdf`**: Documento que contiene un informe detallado sobre el método de relajación, la implementación del programa, la solución analítica y computacional, y el análisis de los resultados.
 
 ## Instrucciones de Uso
