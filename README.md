@@ -15,7 +15,7 @@ El programa acepta como entrada el número de puntos de la red \( N \) y \( M \)
 - **`README.md`**: Proporciona información sobre el repositorio y cómo ejecutar el programa y las pruebas.
 - **`solucion_computacional.png`**: Imagen que muestra la solución computacional de la ecuación de Laplace en 2D y 3D.
 - **`solucion_analitica.png`**: Imagen que muestra la solución analítica de la ecuación de Laplace en 2D y 3D.
-- **`informe.pdf`**: Documento que contiene un informe detallado sobre el método de relajación, la implementación del programa, la solución analítica y computacional, y el análisis de los resultados.
+- **`Informe.pdf`**: Documento que contiene un informe detallado sobre el método de relajación, la implementación del programa, la solución analítica y computacional, y el análisis de los resultados.
 
 ## Instrucciones de Uso
 
